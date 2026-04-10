@@ -5,7 +5,7 @@ Repository to make prediction on differents catalogues using Zoobot, is a easy w
 
 **A fine-tuning pipeline for multi-class galaxy image classification, built on [Zoobot](https://github.com/mwalmsley/zoobot) and PyTorch Lightning.**
 
-> Developed as part of the **CHANCES** (Cluster Hosting Active Nuclei and Cluster Environment Survey) collaboration.
+> Developed as part of the **CHANCES** collaboration.
 
 ---
 
